@@ -1,1 +1,1 @@
-# EDA-6-Cronic_Data_Analysis
+# Cronic_Data_Analysis
